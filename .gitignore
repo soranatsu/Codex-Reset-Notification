@@ -1,0 +1,14 @@
+__pycache__/
+.venv/
+build/
+dist/
+release/
+*.spec
+runtime/
+*.sqlite*
+config.json
+*.log
+*.pem
+*.key
+*.env
+交付记录.json
